@@ -18,6 +18,6 @@ sdfsdfsdf\
 \
 \'d3\'d6\'b4\'b4\'bd\'a8\'b7\'d6\'d6\'a7\'c1\'cb\
 \
-bug\'d0\'de\'b8\'c4\'cd\'ea\'b3\'c9
-\f0 \
-}
+stash \'ca\'b5\'d1\'e9\
+\
+\'d0\'de\'b8\'c4\'cd\'ea\'b3\'c9}
